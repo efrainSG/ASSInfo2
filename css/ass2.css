@@ -1,0 +1,12 @@
+dl.wiki dd.wiki {
+    padding: 0 1%;
+    float: left;
+    width: 88%
+    }
+    
+dl.wiki dt.wiki {
+    float: left;
+    padding: 0 1%;
+    width: 8%;
+    margin-top: 0;
+    }
