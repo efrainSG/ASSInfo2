@@ -10,3 +10,30 @@ dl.wiki dt.wiki {
     width: 8%;
     margin-top: 0;
     }
+
+div.card{
+    background-color:#e0f0b0;
+}
+
+div.card-header{
+    background-color: olivedrab;
+    color:#ffffff;
+}
+
+div.card-header-cv{
+    padding-top: 12px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    background-color:#7f9355;
+    color:#ffffff;
+}
+}
+
+a:active, a:visited, a:link{
+    color:#3020af;
+}
+
+a:hover{
+    color:#3040ef;    
+}
